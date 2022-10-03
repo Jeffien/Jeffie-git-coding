@@ -2,8 +2,51 @@ html body {
     margin: 0;
     padding: 0;
     font-family: 'Times New Roman', Times, serif;
+    background-color: #12c0c0;
+    color: #a8fafa;
+    align-items: center;
+
 }
 
 h1 {
+    font-size: 3em;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 2em;
+    color: rgb(182, 216, 245);
+    align-content: center;
+    
+
+}
+
+li {
+    font-size: 18px;
+   ;
+}
+
+.red {
+    color: #e67878;
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.yellowgreen {
+    color: yellowgreen
+}
+.green{
+    color: green;
+}
+.blue{
+    color: rgb(16, 80, 199);
+}
+.violet {
+    color: violet;
 }
